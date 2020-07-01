@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/fit.git
+	branch = main
+	commit = cc7dceee10705a889fcc70b628692cbc8ac3c9e1
+	parent = a3fb1be01eab25002a6939937740ba1130c21126
+	method = merge
+	cmdver = 0.4.1
