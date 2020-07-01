@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/numbers.git
+	branch = main
+	commit = 40be13209828368d26cc6df882c985e000ab2873
+	parent = 887c08c0a70619c5c1763f9a134ee8bf0b5ea599
+	method = merge
+	cmdver = 0.4.1
