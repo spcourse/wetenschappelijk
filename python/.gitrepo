@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/sp1-python.git
+	branch = main
+	commit = 7f871266ab7124a035e222fa5ef7c6fb56166aa6
+	parent = b6bb9c338efd49de60ab67a7ec8e9333f74d8724
+	method = merge
+	cmdver = 0.4.1
