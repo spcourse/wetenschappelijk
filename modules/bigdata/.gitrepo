@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spcourse/bigdata.git
+	branch = main
+	commit = e9c840d98bdd89b5de2cb538b0cb79f1cdc6f071
+	parent = ee1e3ce7b58f392fc822c9dd7c6f08346f3b08bf
+	method = merge
+	cmdver = 0.4.1
